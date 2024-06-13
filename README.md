@@ -10,3 +10,11 @@ There are 2 datasets used :
    
 3. Feature datasets, only 200 in number with 2 classes, namely Calm and Uncalm.
    These datasets can be seen at https://huggingface.co/datasets/yhutagal/comparison_calm-uncalm_datasets
+
+Binary image classification, using the algorithms:
+1. Support Vector Machines (SVM)
+2. Convolutional Neural Network (CNN)
+3. Transfer Learning using Resnet50 (TF-Resnet50)
+4. Vision Transformers (ViT)
+
+Meanwhile, the generative image results use a diffusion model with timestep = 1000
